@@ -110,7 +110,10 @@ Router1# show ip route
 ```
 ## 📤 OUTPUT
 ---
-<img width="841" height="1013" alt="image" src="https://github.com/user-attachments/assets/54e37780-24ab-404b-bcdf-566a194afcb9" />
+<img width="837" height="449" alt="image" src="https://github.com/user-attachments/assets/d8b3b1f6-c6dd-4b81-9b16-c7ffea038fc1" />
+<img width="835" height="488" alt="image" src="https://github.com/user-attachments/assets/4bb1f136-e012-4e15-b428-d39feb80d8d6" />
+
+
 
 
 
